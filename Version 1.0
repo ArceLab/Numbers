@@ -1,0 +1,139 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Numbers
+{
+
+
+    namespace Numbers
+    {
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                Console.WriteLine("Holis! =D");
+                Console.WriteLine("He creado este programa con el fin de que te puedas divertir aprendiendo de programacion e Idiomas en el proceso");
+                Console.WriteLine("Como prueba beta ya que aun estoy desarrollando este programa, unicamente podre traducirte los numeros hasta el 15 pero espero hacerle mejoras para mostrarte el proceso necesario para conseguirlo como una mejora en la intefaz grafica! =D");
+                Console.WriteLine("Att: Kevin Arce_ (CEO y Fundador de Arce Technologies)");
+                Console.WriteLine("Introduce un numero para continuar ;)");
+                int num;
+                num = Convert.ToInt32(Console.ReadLine());
+
+                switch (num)
+                {
+                    case 1:
+                        Console.WriteLine("Francés: Un");
+                        Console.WriteLine("Alemán: Eins");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 2:
+                        Console.WriteLine("Francés: Deux");
+                        Console.WriteLine("Alemán: Zwei");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 3:
+                        Console.WriteLine("Francés: Trois");
+                        Console.WriteLine("Alemán: ");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 4:
+                        Console.WriteLine("Francés: Quatre");
+                        Console.WriteLine("Alemán: ");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 5:
+                        Console.WriteLine("Francés: Cinq");
+                        Console.WriteLine("Alemán: Fünf");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 6:
+                        Console.WriteLine("Francés: Six");
+                        Console.WriteLine("Alemán: Sechs");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 7:
+                        Console.WriteLine("Francés: Sept");
+                        Console.WriteLine("Alemán: Sieben");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 8:
+                        Console.WriteLine("Francés: Huit");
+                        Console.WriteLine("Alemán: Acht");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 9:
+                        Console.WriteLine("Francés: Neuf");
+                        Console.WriteLine("Alemán: Neun");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 10:
+                        Console.WriteLine("Francés: Dix");
+                        Console.WriteLine("Alemán: Zehn");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 11:
+                        Console.WriteLine("Francés: Onze");
+                        Console.WriteLine("Alemán: ");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 12:
+                        Console.WriteLine("Francés: ");
+                        Console.WriteLine("Alemán: ");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 13:
+                        Console.WriteLine("Francés: ");
+                        Console.WriteLine("Alemán: ");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 14:
+                        Console.WriteLine("Francés: ");
+                        Console.WriteLine("Alemán: ");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 15:
+                        Console.WriteLine("Francés: ");
+                        Console.WriteLine("Alemán: ");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 16:
+                        Console.WriteLine("Francés: ");
+                        Console.WriteLine("Alemán: ");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    case 17:
+                        Console.WriteLine("Francés: ");
+                        Console.WriteLine("Alemán: ");
+                        Console.WriteLine("Introduce otro número Campeón! =D");
+                        Console.ReadKey();
+                        break;
+                    default:
+                        Console.WriteLine("No lo se... Aun! ;)");
+                        Console.ReadKey();
+                        break;
+
+                }
+            }
+        }
+    }
+
+}
